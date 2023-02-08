@@ -11,7 +11,7 @@ print(f'Canal: {tv.canal}')
 print(f'Tamanho: {tv.tamanho}')
 print(f'Marca: {tv.marca}')
 
-print(50 * "=-" + "=")
+print(10 * "=-" + "=")
 
 tv_sala = Televisao()
 tv_sala.ligada = True
@@ -20,4 +20,3 @@ print(f'Ligada? {tv_sala.ligada}')
 print(f'Canal: {tv_sala.canal}')
 print(f'Tamanho: {tv_sala.tamanho}')
 print(f'Marca: {tv_sala.marca}')
-
